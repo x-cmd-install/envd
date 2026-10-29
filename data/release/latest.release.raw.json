@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10986896,
       "digest": "sha256:5cd04c4bc3d3443e1d0206ef5ae4f5623b3326f77adaeb9635d74a64413c93ff",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-10-02T11:56:49Z",
       "updated_at": "2026-10-02T11:56:50Z",
       "browser_download_url": "https://github.com/tensorchord/envd/releases/download/v1.3.6/envd-sshd_1.3.6_darwin_amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10358242,
       "digest": "sha256:490dbd457a2e6787a299f7b1bb0a8e38768ba88f8fb77c5058ef9d1c6e463c1a",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-02T11:56:51Z",
       "updated_at": "2026-10-02T11:56:51Z",
       "browser_download_url": "https://github.com/tensorchord/envd/releases/download/v1.3.6/envd-sshd_1.3.6_darwin_arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10760352,
       "digest": "sha256:b6e06ada45dfa0240b7dffbfeb19df0af2cf16835a1476257ffd78e7c3ef19a0",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-10-02T11:56:52Z",
       "updated_at": "2026-10-02T11:56:53Z",
       "browser_download_url": "https://github.com/tensorchord/envd/releases/download/v1.3.6/envd-sshd_1.3.6_linux_amd64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 62935200,
       "digest": "sha256:cde6069be0628b4d7bfb1394701410e6a9973eb4ec435a1ab94240f774df73b3",
-      "download_count": 153,
+      "download_count": 162,
       "created_at": "2026-10-02T11:56:53Z",
       "updated_at": "2026-10-02T11:56:56Z",
       "browser_download_url": "https://github.com/tensorchord/envd/releases/download/v1.3.6/envd_1.3.6_linux_amd64"
