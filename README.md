@@ -48,12 +48,12 @@ Total: **22,840** lines of code across **267** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-09-09 | 2 | 10 | 1 | 0 | 0 | 10 |
-| 90d | 2026-08-10 | 2 | 10 | 1 | 0 | 0 | 10 |
-| last180d | 2026-05-12 | 2 | 10 | 5 | 0 | 1 | 10 |
-| 360d | 2025-11-13 | 4 | 27 | 11 | 1 | 2 | 28 |
-| last720d | 2024-11-18 | 26 | 112 | 13 | 4 | 3 | 113 |
+| 30d | 2026-10-11 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-09-11 | 2 | 10 | 1 | 0 | 0 | 10 |
+| 90d | 2026-08-12 | 2 | 10 | 1 | 0 | 0 | 10 |
+| last180d | 2026-05-14 | 2 | 10 | 4 | 0 | 1 | 10 |
+| 360d | 2025-11-15 | 4 | 27 | 11 | 1 | 2 | 27 |
+| last720d | 2024-11-20 | 26 | 112 | 13 | 4 | 3 | 113 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for envd lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:17:10Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T09:05:03Z._
